@@ -59,7 +59,7 @@ public class Main {
             }
            number++;
        }
-        System.out.println("totl even number found = "  +  evenNumbersFound);
+        System.out.println("total even number found = "  +  evenNumbersFound);
    }
 public static boolean isEvenNumber(int number){
      if ((number % 2) == 0){
